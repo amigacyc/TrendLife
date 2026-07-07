@@ -3,3 +3,7 @@
 
 # Local-only working files (mockup assets, backups, design tokens)
 TMSC/
+
+# Nested EMU repo (poc.html + screenshots for company htmlshare tool)
+SocioFuture/poc/
+SocioFuture/screenshots/
